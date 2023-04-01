@@ -79,10 +79,10 @@ Customize the application dependencies mentioned below on AWS EC2 instance and c
 
 ## Solution:
 
-1. Follow the LINK to get the complete solution of this project.
+1. Follow the [LINK](https://www.youtube.com/watch?v=vwT3EHRocUo) to get the complete solution of this project.
 
-2. Follow the LINK to get the Project documentation
+2. Follow the [LINK](https://www.youtube.com/watch?v=vwT3EHRocUo) to get the Project documentation
 
-3. Follow the LINK to get the configuration files used in this project
+3. Follow the [LINK](https://bitbucket.org/dptrealtime/devops-projects/src/master/VPC%20Architecture/) to get the configuration files used in this project
 
 ## Happy learning...
